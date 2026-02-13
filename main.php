@@ -57,6 +57,7 @@ else {
 
         <?php echo $head; ?>
         <script src="/scripts/menu.js" defer></script>
+        <script src="/scripts/redirect.js" defer></script>
     </head>
     <body>   
         <?php echo $page; ?>
